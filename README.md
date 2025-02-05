@@ -24,7 +24,7 @@
   - View order summary (Subtotal, 10% VAT, Total)
 
 ✅ **Payment System**
-  - Payment method selection: VISA, MasterCard, Credit Card, Bank Transfer, BKash, Nagad, Rocket
+  - Payment method selection: VISA Card, Master Card, Credit Card, Bank Transfer, BKash, Nagad, Rocket
 
 ✅ **Support & Engagement**
   - Contact form
