@@ -40,10 +40,13 @@
 
 ❌ **Live Support**
   - Live chat with PC building specialists
+
 ❌ **Wishlist**
   - Add the items that the user wants to purchase in the future
+
 ❌ **Order History**
   - All order history with payment receipts under a specific account
+
 ❌ **Different User Login**
   - Login as Admin
   - Login as PC Building Specialist
