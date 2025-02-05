@@ -10,7 +10,8 @@
 
 ✅ **PC Build Generator**
   - Input: Usage category and budget range
-  - Price breakdown for selected components
+  - Output: Recommend components required to build a PC for the given usage within the budget range
+  - Price breakdown for generated components
   - Option to add recommended components to the cart
 
 ✅ **Manual Selection**
