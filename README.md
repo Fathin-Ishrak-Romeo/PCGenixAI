@@ -1,12 +1,12 @@
 # Features
-- **User Authentication**
-  ✅ Sign up, log in, and log out
+- **User Authentication** <br>
+  ✅ Sign up, log in, and log out <br>
   ✅ Update username and change password
 
-✅ **Shop**
-  - Browse PC components
-  - Advanced filters: search bar, category-wise search, brand-wise search, price range-wise search, and sorting (Price High to Low, Low to High, Name A to Z, Z to A)
-  - Reset filters
+- **Shop**
+  ✅ Browse PC components <br>
+  ✅ Advanced filters: search bar, category-wise search, brand-wise search, price range-wise search, and sorting (Price High to Low, Low to High, Name A to Z, Z to A) <br>
+  ✅ Reset filters
 
 ✅ **PC Build Generator**
   - Input: Usage category and budget range
