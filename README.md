@@ -1,7 +1,7 @@
 # Features
-✅ **User Authentication**
-  - Sign up, log in, and log out
-  - Update username and change password
+- **User Authentication**
+  ✅ Sign up, log in, and log out
+  ✅ Update username and change password
 
 ✅ **Shop**
   - Browse PC components
