@@ -1,4 +1,4 @@
-# Features
+# Features  ### (Available ✅, Unavailable ❌)
 - **User Authentication** <br>
   ✅ Login as customer <br>
   ❌ Login as Admin <br>
@@ -42,8 +42,8 @@
   ✅ 3D interactive image on the homepage <br>
   ✅ Typing effect on the homepage
 
-❌ **Wishlist** <br>
+- **Wishlist** <br>
   ❌ Add the items that the user wants to purchase in the future
 
-❌ **Order History** <br>
+- **Order History** <br>
   ❌ All order history with payment receipts under a specific account
