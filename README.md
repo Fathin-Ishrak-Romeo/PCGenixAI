@@ -33,6 +33,7 @@
 - **Support & Engagement** <br>
   ✅ Contact form <br>
   ✅ Chatbot with suggested and category-based questions <br>
+  ❌ Live chat with PC building specialists
   ✅ FAQ and About section <br>
   ✅ Social media links integration <br>
 
@@ -41,16 +42,8 @@
   ✅ 3D interactive image on the homepage <br>
   ✅ Typing effect on the homepage
 
-❌ **Live Support**
-  - Live chat with PC building specialists
-
 ❌ **Wishlist**
-  - Add the items that the user wants to purchase in the future
+  ❌ Add the items that the user wants to purchase in the future
 
 ❌ **Order History**
-  - All order history with payment receipts under a specific account
-
-❌ **Different User Login**
-  - Login as Admin
-  - Login as PC Building Specialist
-  - Login as customer
+  ❌ All order history with payment receipts under a specific account
