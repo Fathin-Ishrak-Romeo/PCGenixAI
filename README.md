@@ -2,7 +2,7 @@
 An online shop for PC components and an AI-based components recommendation system to build your custom PC.
 
 # Features (Currently available ✅, Currently unavailable ❌)
-- ### User Authentication <br>
+- **User Authentication** <br>
   ✅ Login as Customer <br>
   ❌ Login as Admin <br>
   ❌ Login as PC Building Specialist <br>
@@ -61,13 +61,16 @@ An online shop for PC components and an AI-based components recommendation syste
 # Installation & Setup
 ### Step 1: Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/pc-builder.git
-   cd pc-builder
+   git clone https://github.com/Fathin-Ishrak-Romeo/PCGenixAI.git
+   cd PCGenixAI
    ```
-### Step 2: Install Node.js
+### Step 2: Install IDE
+- Ensure you have any IDE **(e.g. VS Code)** installed. Download **VS Code** from [VS Code official website](https://code.visualstudio.com/)
+
+### Step 3: Install Node.js
 - Ensure you have **Node.js** installed. Download it from [Node.js official website](https://nodejs.org/).
 
-### Step 3: Configure Environment Variables
+### Step 4: Configure Environment Variables
 Create a `.env` file in the root directory and add the required configuration:
    ```sh
    PORT=5000
@@ -78,15 +81,15 @@ Create a `.env` file in the root directory and add the required configuration:
    EMAILJS_USER_ID=your_emailjs_user_id
    ```
 
-### Step 4: Install Dependencies
-Run the following command to install all necessary packages:
+### Step 5: Install Dependencies
+Run the following command into the VS Code terminal to install all necessary packages:
    ```sh
    npm install
    ```
 
-### Step 5: Start the Development Server
-Run the backend and frontend servers:
+### Step 6: Start the Development Server
+Run the following command into the VS Code terminal to run the backend and frontend servers:
    ```sh
    npm run dev
    ```
-This will start the development server, and you can access the application in your browser at `http://localhost:3000`.
+This will start the development server. In the terminal, a localhost link (e.g., `http://localhost:3000`) will appear. Copy and paste the link into your browser to access the application. 
