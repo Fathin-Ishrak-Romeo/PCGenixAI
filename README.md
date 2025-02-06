@@ -1,3 +1,6 @@
+# What is PCGenixAI
+An online shop and an AI assistant to build your custom PC.
+
 # Features (Available ✅, Unavailable ❌)
 - **User Authentication** <br>
   ✅ Login as customer <br>
