@@ -54,3 +54,29 @@ An online shop for PC components and an AI-based components recommendation syste
 
 - **Order History** <br>
   ❌ All order history with payment receipts under a specific account
+
+# Tech Stack
+- **Frontend:** TypeScript, React (App.tsx as the main file)
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Authentication:** Firebase Auth
+- **Payment Gateway:** Stripe, Local Payment APIs
+
+# Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/pc-builder.git
+   cd pc-builder
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Set up environment variables:
+   - Create a `.env` file in the root directory
+   - Add necessary keys (API keys, database connection URL, etc.)
+
+4. Start the development server:
+   ```sh
+   npm run dev
+   ```
