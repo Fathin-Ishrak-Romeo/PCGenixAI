@@ -1,6 +1,10 @@
 # What is PCGenixAI
 An online shop for PC components and an AI-based components recommendation system to build your custom PC.
 
+# Services Used
+1. Database Service: [Supabase](https://supabase.com/)
+2. Contact Form Service: [EmailJS](https://dashboard.emailjs.com/sign-up) 
+
 # Features (Currently available ✅, Currently unavailable ❌)
 - **User Authentication** <br>
   ✅ Login as Customer <br>
