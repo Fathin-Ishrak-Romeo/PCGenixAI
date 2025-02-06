@@ -2,11 +2,11 @@
 An online shop for PC components and an AI-based components recommendation system to build your custom PC.
 
 # Features (Currently available ✅, Currently unavailable ❌)
-- **User Authentication** <br>
+- **User Authentication** <br>  
+  ✅ Sign up, log in, and log out <br>
   ✅ Login as Customer <br>
   ❌ Login as Admin <br>
   ❌ Login as PC Building Specialist <br>
-  ✅ Sign up, log in, and log out <br>
   ✅ Update username and change password
 
 - **Shop** <br>
