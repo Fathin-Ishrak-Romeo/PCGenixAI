@@ -7,7 +7,8 @@ An online shop for PC components and an AI-based components recommendation syste
   ✅ Login as Customer <br>
   ❌ Login as Admin <br>
   ❌ Login as PC Building Specialist <br>
-  ✅ Update username and change password
+  ✅ Update username and change password <br>
+  ❌ Forget password option
 
 - **Shop** <br>
   ✅ Browse PC components <br>
