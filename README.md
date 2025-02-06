@@ -1,10 +1,6 @@
 # What is PCGenixAI
 An online shop for PC components and an AI-based components recommendation system to build your custom PC.
 
-# Services Used
-1. Database Service: [Supabase](https://supabase.com/)
-2. Contact Form Service: [EmailJS](https://dashboard.emailjs.com/sign-up) 
-
 # Features (Currently available ✅, Currently unavailable ❌)
 - **User Authentication** <br>
   ✅ Login as Customer <br>
@@ -58,9 +54,9 @@ An online shop for PC components and an AI-based components recommendation syste
 # Tech Stack
 - **Frontend:** TypeScript, React, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** Supabase
-- **Authentication:** Supabase Authentication
-- **Contact Form:** EmailJS for email support
+- **Database:** [Supabase](https://supabase.com/)
+- **Authentication:** [Supabase Authentication](https://supabase.com/)
+- **Contact Form:** [EmailJS](https://dashboard.emailjs.com/sign-up) for email support
 
 # Installation & Setup
 ### Step 1: Clone the repository:
