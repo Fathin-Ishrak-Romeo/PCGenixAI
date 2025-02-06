@@ -1,4 +1,4 @@
-# Features  ### (Available ✅, Unavailable ❌)
+# Features (Available ✅, Unavailable ❌)
 - **User Authentication** <br>
   ✅ Login as customer <br>
   ❌ Login as Admin <br>
