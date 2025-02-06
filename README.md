@@ -1,7 +1,7 @@
 # What is PCGenixAI
 An online shop for PC components and an AI-based components recommendation system to build your custom PC.
 
-# Features (Available ✅, Unavailable ❌)
+# Features (Currently available ✅, Currently unavailable ❌)
 - **User Authentication** <br>
   ✅ Login as customer <br>
   ❌ Login as Admin <br>
