@@ -56,27 +56,41 @@ An online shop for PC components and an AI-based components recommendation syste
   ❌ All order history with payment receipts under a specific account
 
 # Tech Stack
-- **Frontend:** TypeScript, React (App.tsx as the main file)
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Authentication:** Firebase Auth
-- **Payment Gateway:** Stripe, Local Payment APIs
+- **Frontend:** TypeScript, React, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** Supabase
+- **Authentication:** Supabase Authentication
+- **Contact Form:** EmailJS for email support
 
 # Installation & Setup
-1. Clone the repository:
+### Step 1: Clone the repository:
    ```sh
    git clone https://github.com/yourusername/pc-builder.git
    cd pc-builder
    ```
-2. Install dependencies:
+### Step 2: Install Node.js
+- Ensure you have **Node.js** installed. Download it from [Node.js official website](https://nodejs.org/).
+
+### Step 3: Configure Environment Variables
+Create a `.env` file in the root directory and add the required configuration:
+   ```sh
+   PORT=5000
+   SUPABASE_URL=your_supabase_url
+   SUPABASE_ANON_KEY=your_supabase_anon_key
+   EMAILJS_SERVICE_ID=your_emailjs_service_id
+   EMAILJS_TEMPLATE_ID=your_emailjs_template_id
+   EMAILJS_USER_ID=your_emailjs_user_id
+   ```
+
+### Step 4: Install Dependencies
+Run the following command to install all necessary packages:
    ```sh
    npm install
    ```
-3. Set up environment variables:
-   - Create a `.env` file in the root directory
-   - Add necessary keys (API keys, database connection URL, etc.)
 
-4. Start the development server:
+### Step 5: Start the Development Server
+Run the backend and frontend servers:
    ```sh
    npm run dev
    ```
+This will start the development server, and you can access the application in your browser at `http://localhost:3000`.
