@@ -41,7 +41,7 @@ An online shop for PC components and an AI-based components recommendation syste
   ✅ Social media links integration <br>
 
 - **UI/UX Enhancements** <br>
-  ✅ Dark mode support <br>
+  ✅ Light & dark theme support <br>
   ✅ 3D interactive image on the homepage <br>
   ✅ Typing effect on the homepage
 
