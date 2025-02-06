@@ -51,6 +51,10 @@ An online shop for PC components and an AI-based components recommendation syste
 - **Order History** <br>
   ❌ All order history with payment receipts under a specific account
 
+- **Payment Gateway** <br>
+  ❌ Implement the payment gateway for successful payment transaction
+
+
 # Tech Stack
 - **Frontend:** TypeScript, React, Tailwind CSS
 - **Backend:** Node.js, Express.js
@@ -93,3 +97,17 @@ Run the following command into the VS Code terminal to run the backend and front
    npm run dev
    ```
 This will start the development server. In the terminal, a localhost link (e.g., `http://localhost:3000`) will appear. Copy and paste the link into your browser to access the application. 
+
+### Step 7: Testing
+- Register a new user and log in.
+- Browse PC components and test the filtering options.
+- Use the PC Build Generator to generate a build.
+- Use the Manual Selection to select components manually.
+- Add components to the cart and proceed with testing.
+- Contact support using the chatbot or contact form.
+
+## Contributing
+Feel free to contribute to this project by opening issues or submitting pull requests.
+
+## License
+This project is licensed under the MIT License.
