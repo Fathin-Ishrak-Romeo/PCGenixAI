@@ -106,8 +106,8 @@ This will start the development server. In the terminal, a localhost link (e.g.,
 - Add components to the cart and proceed with testing.
 - Contact support using the chatbot or contact form.
 
-## Contributing
+# Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests.
 
-## License
+# License
 This project is licensed under the MIT License.
