@@ -3,7 +3,7 @@ An online shop for PC components and an AI-based components recommendation syste
 
 # Features (Currently available ✅, Currently unavailable ❌)
 - **User Authentication** <br>
-  ✅ Login as customer <br>
+  ✅ Login as Customer <br>
   ❌ Login as Admin <br>
   ❌ Login as PC Building Specialist <br>
   ✅ Sign up, log in, and log out <br>
@@ -46,7 +46,7 @@ An online shop for PC components and an AI-based components recommendation syste
   ✅ Typing effect on the homepage
 
 - **Wishlist** <br>
-  ❌ Add the items that the user wants to purchase in the future
+  ❌ Add the items that the customer wants to purchase in the future
 
 - **Order History** <br>
   ❌ All order history with payment receipts under a specific account
