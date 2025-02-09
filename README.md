@@ -2,7 +2,7 @@
 An online shop for PC components and an AI-based components recommendation system to build your custom PC.
 
 ## User Manual
-https://github.com/user-attachments/assets/29ff7c15-0ef7-43f2-b51d-0639bec02dcb
+https://github.com/user-attachments/assets/29ff7c15-0ef7-43f2-b51d-0639bec02dcb{: width="500" height="280"}
 
 ## Submitted Version
 [PC Builder](https://github.com/Fathin-Ishrak-Romeo/CSE471_Final-Project_PC-Builder-Website_A-haven-to-custom-built-PC)
