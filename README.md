@@ -1,14 +1,26 @@
 # What is PCGenixAI?
 An online shop for PC components and an AI-based components recommendation system to build your custom PC.
 
-# Features (Currently available ✅, Currently unavailable ❌)
+---
+
+# Submitted Version
+[PC Builder](https://github.com/Fathin-Ishrak-Romeo/CSE471_Final-Project_PC-Builder-Website_A-haven-to-custom-built-PC)
+
+---
+
+# Earlier versions
+https://github.com/Fathin-Ishrak-Romeo/471Project_Rough-work
+
+---
+
+# Features (Currently available ✅, Currently unavailable ⬜)
 - **User Authentication**  
   ✅ Sign up, log in, and log out <br>
   ✅ Login as Customer <br>
-  ❌ Login as Admin <br>
-  ❌ Login as PC Building Specialist <br>
+  ⬜ Login as Admin <br>
+  ⬜ Login as PC Building Specialist <br>
   ✅ Update username and change password <br>
-  ❌ Forget password option
+  ⬜ Forget password option
 
 - **Shop** <br>
   ✅ Browse PC components <br>
@@ -37,7 +49,7 @@ An online shop for PC components and an AI-based components recommendation syste
 - **Support & Engagement** <br>
   ✅ Contact form <br>
   ✅ Chatbot with suggested and category-based questions <br>
-  ❌ Live chat with PC building specialists <br>
+  ⬜ Live chat with PC building specialists <br>
   ✅ FAQ and About section <br>
   ✅ Social media links integration <br>
 
@@ -47,13 +59,15 @@ An online shop for PC components and an AI-based components recommendation syste
   ✅ Typing effect on the homepage
 
 - **Wishlist** <br>
-  ❌ Add the items that the customer wants to purchase in the future
+  ⬜ Add the items that the customer wants to purchase in the future
 
 - **Order History** <br>
-  ❌ All order history with payment receipts under a specific account
+  ⬜ All order history with payment receipts under a specific account
 
 - **Payment Gateway** <br>
-  ❌ Implement the payment gateway for successful payment transaction
+  ⬜ Implement the payment gateway for successful payment transaction
+
+---
 
 
 # Tech Stack
@@ -63,14 +77,18 @@ An online shop for PC components and an AI-based components recommendation syste
 - **Authentication:** [Supabase Authentication](https://supabase.com/)
 - **Contact Form:** [EmailJS](https://dashboard.emailjs.com/sign-up) for email support
 
-# Installation & Setup
-### Step 1: Clone the repository:
-   ```sh
-   git clone https://github.com/Fathin-Ishrak-Romeo/PCGenixAI.git
-   cd PCGenixAI
-   ```
+---
+
+# Installation & Setup (For Normal Users)
+### Step 1: Download the ZIP file of the project
+  
+![image](https://github.com/user-attachments/assets/8adf13a9-0c53-421e-adee-8a808ddb55e8)
+
+- Extract the ZIP flie
+
 ### Step 2: Install IDE
 - Ensure you have any IDE **(e.g. VS Code)** installed. Download **VS Code** from [VS Code official website](https://code.visualstudio.com/)
+- Open the extracted project folder on VS Code
 
 ### Step 3: Install Node.js
 - Ensure you have **Node.js** installed. Download it from [Node.js official website](https://nodejs.org/).
@@ -106,6 +124,96 @@ This will start the development server. In the terminal, a localhost link (e.g.,
 - Use the Manual Selection to select components manually.
 - Add components to the cart and proceed with testing.
 - Contact support using the chatbot or contact form.
+
+---
+
+# Setup Using Git (For Developers only)
+
+This method is recommended for developers who want to:
+- Contribute to the project
+- Stay updated with the latest changes
+- Switch between different versions
+- Create custom modifications
+
+#### Prerequisites
+1. Install Git: [Download Git](https://git-scm.com/downloads)
+
+#### Initial Setup
+1. **Clone the Repository**:
+   ```bash
+   # Using HTTPS
+   git clone https://github.com/Fathin-Ishrak-Romeo/PCGenixAI.git
+   ```
+
+2. **Navigate to Project Directory**:
+   ```bash
+   cd PCGenixAI
+   ```
+
+3. **Switch to the Main Branch**:
+   ```bash
+   git checkout main
+   ```
+   
+4. **Install Dependencies**:
+   ```bash
+   pnpm install
+   ```
+
+5. **Start the Development Server**:
+   ```bash
+   pnpm run dev
+   ```
+
+#### Staying Updated
+
+To get the latest changes from the repository:
+
+1. **Save Your Local Changes** (if any):
+   ```bash
+   git stash
+   ```
+
+2. **Pull Latest Updates**:
+   ```bash
+   git pull origin main
+   ```
+   
+3. **Update Dependencies**:
+   ```bash
+   pnpm install
+   ```
+
+4. **Restore Your Local Changes** (if any):
+   ```bash
+   git stash pop
+   ```
+#### Troubleshooting Git Setup
+
+If you encounter issues:
+
+1. **Clean Installation**:
+   ```bash
+   # Remove node modules and lock files
+   rm -rf node_modules pnpm-lock.yaml
+
+   # Clear pnpm cache
+   pnpm store prune
+
+   # Reinstall dependencies
+   pnpm install
+   ```
+
+2. **Reset Local Changes**:
+   ```bash
+   # Discard all local changes
+   git reset --hard origin/main
+   ```
+
+Remember to always commit your local changes or stash them before pulling updates to avoid conflicts.
+
+---
+
 
 # Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests.
