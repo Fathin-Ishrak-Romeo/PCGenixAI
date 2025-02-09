@@ -1,14 +1,10 @@
 # What is PCGenixAI?
 An online shop for PC components and an AI-based components recommendation system to build your custom PC.
 
----
-
-# Submitted Version
+## Submitted Version
 [PC Builder](https://github.com/Fathin-Ishrak-Romeo/CSE471_Final-Project_PC-Builder-Website_A-haven-to-custom-built-PC)
 
----
-
-# Earlier versions
+## Earlier versions
 https://github.com/Fathin-Ishrak-Romeo/471Project_Rough-work
 
 ---
