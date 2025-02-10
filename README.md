@@ -5,7 +5,7 @@ An online shop for PC components and an AI-based components recommendation syste
 [PCGenixAI User Manual Video](https://drive.google.com/file/d/1fhNoyF8JeRiF2Gp6AAxL4vjB9IuVrkkI/view?usp=drive_link)
 
 ## Submitted Version
-[PC Builder](https://github.com/Fathin-Ishrak-Romeo/CSE471_Final-Project_PC-Builder-Website_A-haven-to-custom-built-PC)
+[PC Builder: A Haven to Custom Built PC](https://github.com/Fathin-Ishrak-Romeo/CSE471_Final-Project_PC-Builder-Website_A-haven-to-custom-built-PC)
 
 ## Earlier versions
 https://github.com/Fathin-Ishrak-Romeo/471Project_Rough-work
